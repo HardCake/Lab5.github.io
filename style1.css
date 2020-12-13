@@ -1,0 +1,66 @@
+[class*="col-"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  .col-md-6 {width: 50%;}
+  .col-sm-4 {width: 33.33%}
+}
+
+@media only screen and (min-width: 768px) {
+  .col-md-6 {width: 50%;}
+  .col-sm-4 {width: 33.33%}
+}
+
+.carouselst {
+	margin-left: 125px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	height: 600px;
+	width: 1300px;
+}
+
+.carouselb {
+	margin-bottom: 20px;
+}
+
+.image-size {
+	width: 760px;
+	height: 600px;
+}
+
+.cont {
+	margin-left: 380px; 
+}
+
+.hstyle {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 685px;
+}
+
+.cardsst1 {
+	width: 280px;
+	margin-left: 200px;
+}
+
+.cardsst2 {
+	width: 280px;
+	margin-left: 106px;
+}
+
+.cardsst3 {
+	width: 280px;
+}
+
+.cardimg {
+	width: 280px;
+	height: 400px;
+}
+
+.buttonstyle {
+	margin-top: 40px;
+	margin-left: 650px;
+	background-color: grey;
+	border-color: grey;
+} 
